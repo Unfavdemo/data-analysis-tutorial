@@ -92,7 +92,7 @@ agentic-data-quality-analysis-platform/
     └── canva-presentation-design-guide.md
 ```
 
-## Student Project File Structure
+## Project File Structure
 
 When you complete this project, your application will have this structure:
 
@@ -180,3 +180,4 @@ MIT License - Educational use encouraged
 
 **Generated:** 2025-11-15
 **Generator Version:** 1.0.0
+
