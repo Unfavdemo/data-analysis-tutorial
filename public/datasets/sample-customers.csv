@@ -1,0 +1,22 @@
+customer_id,name,email,age,city,country,registration_date,active
+1,John Smith,john.smith@email.com,35,New York,USA,2023-01-15,true
+2,Jane Doe,jane.doe@email.com,28,Los Angeles,USA,2023-02-20,true
+3,Bob Johnson,bob.j@email.com,42,Chicago,USA,2023-03-10,false
+4,Alice Williams,alice.w@email.com,31,London,UK,2023-04-05,true
+5,Charlie Brown,charlie@email.com,25,Boston,USA,2023-05-12,true
+6,Diana Prince,diana@email.com,38,Paris,France,2023-06-18,true
+7,Edward Norton,edward@email.com,45,Sydney,Australia,2023-07-22,false
+8,Fiona Apple,fiona@email.com,29,Toronto,Canada,2023-08-30,true
+9,George Clooney,george@email.com,52,New York,USA,2023-09-14,true
+10,Helen Hunt,helen@email.com,41,Los Angeles,USA,2023-10-08,true
+11,Ian McKellen,ian@email.com,65,London,UK,2023-11-19,true
+12,Julia Roberts,julia@email.com,48,New York,USA,2023-12-25,true
+13,Kevin Spacey,kevin@email.com,55,Chicago,USA,2024-01-03,false
+14,Laura Linney,laura@email.com,39,Boston,USA,2024-01-15,true
+15,Michael Caine,michael@email.com,72,London,UK,2024-02-01,true
+16,Natalie Portman,natalie@email.com,33,Los Angeles,USA,2024-02-10,true
+17,Olivia Wilde,olivia@email.com,36,New York,USA,2024-02-20,true
+18,Paul Rudd,paul@email.com,44,Chicago,USA,2024-03-05,true
+19,Quentin Tarantino,quentin@email.com,58,Los Angeles,USA,2024-03-15,false
+20,Rachel Weisz,rachel@email.com,40,London,UK,2024-03-25,true
+

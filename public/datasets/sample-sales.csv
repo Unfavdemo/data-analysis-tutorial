@@ -1,0 +1,22 @@
+order_id,customer_name,product,quantity,price,order_date,status
+1,John Smith,Widget A,5,29.99,2024-01-15,completed
+2,Jane Doe,Widget B,3,49.99,2024-01-16,completed
+3,Bob Johnson,Widget A,10,29.99,2024-01-17,pending
+4,Alice Williams,Widget C,2,79.99,2024-01-18,completed
+5,Charlie Brown,Widget B,1,49.99,2024-01-19,
+6,Diana Prince,Widget A,7,29.99,2024-01-20,completed
+7,Edward Norton,Widget C,4,79.99,2024-01-21,completed
+8,Fiona Apple,Widget B,6,49.99,2024-01-22,pending
+9,George Clooney,Widget A,3,29.99,2024-01-23,completed
+10,Helen Hunt,Widget C,1,79.99,2024-01-24,completed
+11,Ian McKellen,Widget A,8,29.99,2024-01-25,completed
+12,Julia Roberts,Widget B,2,49.99,2024-01-26,pending
+13,Kevin Spacey,Widget A,15,29.99,2024-01-27,completed
+14,Laura Linney,Widget C,3,79.99,2024-01-28,completed
+15,Michael Caine,Widget B,5,49.99,2024-01-29,completed
+16,Natalie Portman,Widget A,12,29.99,2024-01-30,completed
+17,Olivia Wilde,Widget C,2,79.99,2024-02-01,completed
+18,Paul Rudd,Widget B,9,49.99,2024-02-02,pending
+19,Quentin Tarantino,Widget A,6,29.99,2024-02-03,completed
+20,Rachel Weisz,Widget C,1,79.99,2024-02-04,completed
+
