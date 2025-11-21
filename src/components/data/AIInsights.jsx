@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { generateAIInsights } from '@/lib/aiIntegration'
 import '../../styles/AIInsights.css'
 
@@ -9,13 +9,7 @@ export default function AIInsights({ qualityMetrics, data }) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
-  useEffect(() => {
-    if (qualityMetrics && data) {
-      loadInsights()
-    }
-  }, [qualityMetrics, data])
-
-  const loadInsights = async () => {
+  const loadInsights = useCallback(async () => {
     setLoading(true)
     setError(null)
 
@@ -28,7 +22,13 @@ export default function AIInsights({ qualityMetrics, data }) {
     } finally {
       setLoading(false)
     }
-  }
+  }, [qualityMetrics, data])
+
+  useEffect(() => {
+    if (qualityMetrics && data) {
+      loadInsights()
+    }
+  }, [qualityMetrics, data, loadInsights])
 
   if (loading) {
     return (

@@ -42,7 +42,7 @@ export default function HomePage() {
         </section>
 
         <section className="features-section">
-          <h2>What You'll Get</h2>
+          <h2>What You&apos;ll Get</h2>
           <div className="features-grid">
             <div className="feature-card">
               <h3>Quality Score</h3>
